@@ -1,5 +1,3 @@
-
-
 ## नमस्ते (Namaste), I am Jagruti Meniya
 <h3>MEAN STACK | MERN STACK Developer </h3> 
 
@@ -11,6 +9,7 @@
   }<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 <br>
+<br>
 <!--<p align="left">
   <samp>
 I'm Javascript Full Stack Web developer from Gujarat, INDIA.
@@ -18,15 +17,13 @@ I love building web applications & discussing new product ideas.
   </samp>-->
   
   **Talking about Personal Stuffs:**
+<br>
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 💬 Ask me about anything, I am happy to help;
 
  </p>
 <hr>
-
-<br>
-
 <h3> Languages and Tools </h3>
 <p>
 
