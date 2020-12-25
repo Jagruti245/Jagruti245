@@ -51,10 +51,9 @@ I love building web applications & discussing new product ideas.
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jagruti245&show_icons=true&theme=gotham" alt="Jagruti245" />
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Jagruti245&show_icons=true&theme=gotham" alt="Jagruti245" />
 <br>
   
-<div align="center">
 <hr>
 
 <h3>Reach Out To Me :</h3>
@@ -75,4 +74,3 @@ I love building web applications & discussing new product ideas.
 <h3>Happy Visitors</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/Jagruti245/count.svg)
-</div>
