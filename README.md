@@ -1,8 +1,7 @@
-![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/Girl_Coder.gif?raw=true)
-</br>
 
-## नमस्ते (Namaste), I am [ J@gruti Men!ya ]
- 
+
+## नमस्ते (Namaste), I am Jagruti Meniya
+<h3>MEAN STACK | MERN STACK </h3> 
 
 
 <h3>"{
@@ -20,7 +19,6 @@ I love building web applications & discussing new product ideas.
 
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 💬 Ask me about anything, I am happy to help;
-- 📝[Resume](https://drive.google.com/file/d/1sZ5DFLoYLKvJmgoyJc6VZs-JYROl7A9o/view)
 
  <!-- <h3>I'm Currently Working/Learning On<br>
   <p>MEAN STACK | MERN STACK | .NET CORE </p></h3>-->
@@ -68,9 +66,25 @@ I love building web applications & discussing new product ideas.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jagruti245&show_icons=true&theme=gotham" alt="Jagruti245" />
 
 <h3>Reach Out To Me :</h3>
-<p><a href="https://www.linkedin.com/in/jagruti-meniya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/jagruti_meniya/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a><img src="https://img.shields.io/badge/-jagrutimeniya245@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jagrutimeniya245@gmail.com" height=25></a>
+<p>
+<br/>
+<a href="https://www.linkedin.com/in/jagruti-meniya/">
+  <img alt="jagruti's LinkdeIN" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111465.svg" />
+</a>
+<a href="https://www.instagram.com/jagruti_meniya/">
+  <img alt="jagruti's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
+</a>
+ <a href="mailto:jagrutimeniya245@gmail.com">
+  <img alt="jagruti's Instagram" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" />
+</a>
 </p>
+
+
+
+
+<!--<p><a href="https://www.linkedin.com/in/jagruti-meniya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/jagruti_meniya/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a><img src="https://img.shields.io/badge/-jagrutimeniya245@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jagrutimeniya245@gmail.com" height=25></a>
+</p>-->
 
 <br>
 <div align="center">
