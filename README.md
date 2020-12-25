@@ -63,6 +63,18 @@ I love building web applications & discussing new product ideas.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jagruti245&show_icons=true&theme=gotham" alt="Jagruti245" />
 
+
+
+
+
+
+<!--<p><a href="https://www.linkedin.com/in/jagruti-meniya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/jagruti_meniya/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
+<a><img src="https://img.shields.io/badge/-jagrutimeniya245@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jagrutimeniya245@gmail.com" height=25></a>
+</p>-->
+
+<br>
+<div align="center">
+
 <h3>Reach Out To Me :</h3>
 <p>
 <br/>
@@ -76,16 +88,6 @@ I love building web applications & discussing new product ideas.
   <img alt="jagruti's Instagram" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" />
 </a>
 </p>
-
-
-
-
-<!--<p><a href="https://www.linkedin.com/in/jagruti-meniya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/jagruti_meniya/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a><img src="https://img.shields.io/badge/-jagrutimeniya245@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jagrutimeniya245@gmail.com" height=25></a>
-</p>-->
-
-<br>
-<div align="center">
 
 <!--<h3>Support Me With : </h3> 
 <a href="https://www.buymeacoffee.com/dsquare0601" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Pizza" width="217px" height="60px"></a>-->
