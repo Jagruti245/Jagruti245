@@ -55,6 +55,7 @@ I love building web applications & discussing new product ideas.
 <br>
   
 <div align="center">
+<hr>
 
 <h3>Reach Out To Me :</h3>
 <p>
