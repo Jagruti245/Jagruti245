@@ -3,6 +3,8 @@
 ## नमस्ते (Namaste), I am Jagruti Meniya
 <h3>MEAN STACK | MERN STACK Developer </h3> 
 
+<br>
+<img align="left" width="120" height="120" alt="Jagruti" src="Stuff/hi.png"/>
 
 <h3>"{
   Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code !!"
@@ -20,9 +22,7 @@ I love building web applications & discussing new product ideas.
 - 👨🏽‍💻 I’m currently working on something cool :wink:;
 - 💬 Ask me about anything, I am happy to help;
 
- <!-- <h3>I'm Currently Working/Learning On<br>
-  <p>MEAN STACK | MERN STACK | .NET CORE </p></h3>-->
-</p>
+ </p>
 <hr>
 
 <br>
@@ -50,28 +50,11 @@ I love building web applications & discussing new product ideas.
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png" alt="json"></code><span>&nbsp;&nbsp;</span>
 </p>
 
-<!--<img align="right" width="120" height="120" alt="Dsquare" src="Stuff/namaste.png"/>-->
-<!--<code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="bootstrap"></code>-->
-<!--Reach out to me on [twitter][twitter] and [instagram][instagram] if you'd like to talk ✌️-->
 <hr>
-
-<!--<h2>States</h2>
-
-<!--<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Jagruti245&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> wi*quL3fcV <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti245&hide=html&hide_border=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
 
 📈 My GitHub Stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jagruti245&show_icons=true&theme=gotham" alt="Jagruti245" />
-
-
-
-
-
-
-<!--<p><a href="https://www.linkedin.com/in/jagruti-meniya/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/jagruti_meniya/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a>
-<a><img src="https://img.shields.io/badge/-jagrutimeniya245@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:jagrutimeniya245@gmail.com" height=25></a>
-</p>-->
-
 <br>
 <div align="center">
 
