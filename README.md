@@ -11,11 +11,11 @@
   }<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 <br>
-<p align="center">
+<!--<p align="left">
   <samp>
 I'm Javascript Full Stack Web developer from Gujarat, INDIA.
 I love building web applications & discussing new product ideas.
-  </samp>
+  </samp>-->
   
   **Talking about Personal Stuffs:**
 
@@ -56,6 +56,7 @@ I love building web applications & discussing new product ideas.
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Jagruti245&show_icons=true&theme=gotham" alt="Jagruti245" />
 <br>
+  
 <div align="center">
 
 <h3>Reach Out To Me :</h3>
@@ -72,13 +73,8 @@ I love building web applications & discussing new product ideas.
 </a>
 </p>
 
-<!--<h3>Support Me With : </h3> 
-<a href="https://www.buymeacoffee.com/dsquare0601" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Pizza" width="217px" height="60px"></a>-->
-
 <br>
 <h3>Happy Visitors</h3>
 
 ![Visitor Count](https://profile-counter.glitch.me/Jagruti245/count.svg)
 </div>
-
-[instagram]: https://instagram.com/jagruti_meniya
