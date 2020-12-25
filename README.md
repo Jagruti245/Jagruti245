@@ -1,7 +1,7 @@
 
 
 ## नमस्ते (Namaste), I am Jagruti Meniya
-<h3>MEAN STACK | MERN STACK </h3> 
+<h3>MEAN STACK | MERN STACK Developer </h3> 
 
 
 <h3>"{
@@ -58,8 +58,6 @@ I love building web applications & discussing new product ideas.
 <!--<h2>States</h2>
 
 <!--<img height="137.3px" src="https://github-readme-stats.vercel.app/api?username=Jagruti245&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /> wi*quL3fcV <img height="137.3px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jagruti245&hide=html&hide_border=true&layout=compact&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> -->
-
-<hr>
 
 📈 My GitHub Stats
 
