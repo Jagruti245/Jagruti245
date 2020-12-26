@@ -4,8 +4,8 @@
 <br>
 <img align="left" width="120" height="120" alt="Jagruti" src="Stuff/hi.png"/>
 
-<h3>{"
-  Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code !!"
+<h3>{ 
+  "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code !!"
   }<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h3>
 
 <br>
