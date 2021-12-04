@@ -66,7 +66,7 @@ I love building web applications & discussing new product ideas.
   <img alt="jagruti's Instagram" width="35px" src="https://image.flaticon.com/icons/svg/2111/2111421.svg" />
 </a>
  <a href="mailto:jagrutimeniya245@gmail.com">
-  <img alt="jagruti's Instagram" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" />
+  <img alt="jagruti's Email" width="35px" src="https://www.flaticon.com/svg/static/icons/svg/324/324123.svg" />
 </a>
 </p>
 
