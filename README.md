@@ -1,5 +1,5 @@
 ## नमस्ते (Namaste), I am Jagruti Meniya
-<h3>MEAN STACK | MERN STACK Developer </h3> 
+<h3>MEAN STACK | FULL STACK Developer </h3> 
 
 <br>
 <img align="left" width="120" height="120" alt="Jagruti" src="Stuff/hi.png"/>
